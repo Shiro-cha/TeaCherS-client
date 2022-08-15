@@ -1,6 +1,6 @@
 # TeaCherS-server back-end by:
 -RAZAFIMAHANDRY Nomena Fitiavana 
--ANDRIATAHINA Jonathan
+-ANDRIATAHIANA Jonathan
 -RAKOTOMALALA Anjaraniaina Julio
 # link:
 [https://teachers-espa.netlify.app/]
